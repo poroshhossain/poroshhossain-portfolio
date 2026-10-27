@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Placeholder screenshot">
+  <rect width="800" height="450" fill="#131316"/>
+  <!-- editor window -->
+  <rect x="140" y="55" width="520" height="330" rx="12" fill="#1c1c20"/>
+  <circle cx="172" cy="87" r="7" fill="#ef4444" opacity="0.55"/>
+  <circle cx="196" cy="87" r="7" fill="#eab308" opacity="0.55"/>
+  <circle cx="220" cy="87" r="7" fill="#22c55e" opacity="0.55"/>
+  <rect x="244" y="80" width="180" height="14" rx="7" fill="#27272a"/>
+  <!-- code lines -->
+  <rect x="172" y="122" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="122" width="180" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="152" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="152" width="260" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="182" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="182" width="120" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="212" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="212" width="300" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="242" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="242" width="210" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="272" width="24" height="12" rx="4" fill="#3f3f46"/>
+  <rect x="204" y="272" width="160" height="12" rx="4" fill="#27272a"/>
+  <rect x="172" y="316" width="200" height="34" rx="8" fill="#6366f1"/>
+</svg>
