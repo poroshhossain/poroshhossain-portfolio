@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 481 >>
+stream
+BT
+/F2 24 Tf
+0.18 0.16 0.44 rg
+72 690 Td
+(Porosh Hossain) Tj
+ET
+BT
+/F1 12 Tf
+0.32 0.33 0.36 rg
+72 660 Td
+(Full-Stack Web Engineer) Tj
+0.42 0.43 0.46 rg
+0 -36 Td
+(This is a placeholder file so the Resume buttons have a real download.) Tj
+0 -18 Td
+(Replace /public/resume.pdf with your actual resume before sharing this) Tj
+0 -18 Td
+(portfolio. Keep the filename `resume.pdf` and wire the button only when) Tj
+0 -18 Td
+(the document is ready to be seen by recruiters.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+928
+%%EOF
