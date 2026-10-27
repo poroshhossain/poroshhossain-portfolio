@@ -43,14 +43,6 @@ export type Profile = {
   };
 };
 
-export type Education = {
-  institution: string;
-  degree: string;
-  field?: string;
-  period: string;
-  details?: string[];
-};
-
 export type Experience = {
   role: string;
   company: string;

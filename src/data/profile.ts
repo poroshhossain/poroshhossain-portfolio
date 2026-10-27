@@ -1,4 +1,4 @@
-import type { Education, Experience, Profile } from "@/lib/types";
+import type { Experience, Profile } from "@/lib/types";
 
 /**
  * ─────────────────────────────────────────────────────────────────────────────
@@ -45,20 +45,6 @@ export const profile: Profile = {
     interests: [],
   },
 };
-
-/**
- * Education entries. The section renders a professional "coming soon" state
- * while this array is empty — add the first entry to flesh it out:
- *
-  {
-    institution: "University name",
-    degree: "B.Sc. in Computer Science",
-    field: "Department of Computer Science",
-    period: "2021 – 2025",
-    details: ["Optional details: coursework, activities, honors."],
-  },
- */
-export const education: Education[] = [];
 
 /**
  * Experience entries. If you have no formal employment yet, you can leave
